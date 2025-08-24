@@ -180,5 +180,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Gradle** for build automation
 
 ---
-**Project Updates**: Follow @Q_less
+**Project Updates**: Follow https://t.me/Q_less
+
 **QLESS** - Making school coffee delivery simple and fun! ☕✨
