@@ -179,13 +179,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Jackson** for JSON processing
 - **Gradle** for build automation
 
-## 📞 Support
-
-For technical support or questions:
-- **Bot Issues**: Contact @ivanfenster
-- **Delivery Issues**: Contact @ekkharina
-- **Project Updates**: Follow @Q_less
-
 ---
-
+**Project Updates**: Follow @Q_less
 **QLESS** - Making school coffee delivery simple and fun! ☕✨
