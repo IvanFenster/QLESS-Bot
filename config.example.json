@@ -1,0 +1,13 @@
+{
+  "support": {
+    "delivery_issues": "@your_delivery_support",
+    "bot_issues": "@your_tech_support", 
+    "project_updates": "@your_project_channel"
+  },
+  "system": {
+    "database_name": "delivery-agents",
+    "percent_of_income": 25,
+    "first_orders_for_free": 0,
+    "one_more_token_for_first_order": true
+  }
+}

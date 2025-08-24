@@ -1,0 +1,1 @@
+worker: java -jar build/libs/qless-bot-1.0-SNAPSHOT.jar
